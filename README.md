@@ -1,0 +1,2 @@
+## Spotify playlist
+For this project, I am using BeautifulSoup to scrape Billboards top 100 songs from a particular date that the user inputs in the format YYYY-MM-DD. Then I will extract the song titles and use the spotify API to add those songs to a playlist. 
